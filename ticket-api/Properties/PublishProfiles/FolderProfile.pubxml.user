@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>D:\MoF\TicketMIS\ticket-api\bin\Release\net6.0\publish\</_PublishTargetUrl>
+    <History>True|2023-01-10T11:16:29.9899885Z;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+</Project>

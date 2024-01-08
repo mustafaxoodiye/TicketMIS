@@ -1,0 +1,50 @@
+.css-table table {
+  /* width: fit-content; */
+  border-spacing: 0px !important;
+  border-collapse: initial !important;
+}
+
+.css-table table thead tr th {
+  border: 1px solid !important;
+  border-width: 0.5px;
+  font-size: medium;
+}
+
+.css-table table tbody tr td {
+  /* border: 1px solid !important; */
+  color: #000000 !important;
+  border-color: rgb(42, 42, 42) !important;
+  border-width: 0.2px !important;
+  border-style: solid;
+}
+
+.css-table .actions {
+  display: none;
+}
+
+.css-input {
+  width: inherit;
+  padding: 5px;
+  font-size: 16px;
+  border-width: 1px;
+  border-color: #cccccc;
+  background-color: #ffffff;
+  color: #000000;
+  border-style: solid;
+  border-radius: 7px;
+  box-shadow: -50px 0px 0px rgba(66, 66, 66, 0);
+  text-shadow: 0px 0px 5px rgba(66, 66, 66, 0);
+}
+
+.css-input:focus {
+  outline: none;
+}
+
+@media print {
+  body {
+    transform: scale(0.96);
+  }
+  table {
+    page-break-inside: avoid;
+  }
+}

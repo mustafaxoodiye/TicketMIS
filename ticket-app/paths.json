@@ -1,0 +1,37 @@
+{
+    "compilerOptions": {
+        "baseUrl": "./src",
+        "paths": {
+            "@models": [
+                "models/index.ts"
+            ],
+            "@viewModels": [
+                "viewModels/index.ts"
+            ],
+            "@stores": [
+                "stores/index.ts"
+            ],
+            "@components": [
+                "components/index.ts"
+            ],
+            "@layout": [
+                "layout/index.ts"
+            ],
+            "@utils": [
+                "utils/index.ts"
+            ],
+            "@api": [
+                "api/index.ts"
+            ],
+            "@hooks": [
+                "hooks/index.ts"
+            ],
+            "@middleware": [
+                "middleware/index.ts"
+            ],
+            "@widgets": [
+                "widgets/index.ts"
+            ]
+        }
+    }
+}
